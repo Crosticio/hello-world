@@ -1,3 +1,3 @@
 x = lambda a : a + 10
 
-print(x(90))
+print(x(10234))
